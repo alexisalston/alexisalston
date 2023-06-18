@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alexisalston
-- 👀 I’m interested in ...Front End Web Development --- (iOS & MacOS application development in the far future)
-- 🌱 I’m currently learning ...Front End and Back End Development through Udemy and getting a web development certificate at illinois state university
-- 💞️ I’m looking to collaborate on ...Website and web application projects
+- 👀 I’m interested in ...Software Development --- (web and application development in the future)
+- 🌱 I’m currently learning ...Front End and Back End Development 
+- 💞️ I’m looking to collaborate on ...Website and application projects
 - 📫 How to reach me ...alexis.d.alston@gmail.com
 
 <!---
